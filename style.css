@@ -1,0 +1,162 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body{
+    background-color:black ;
+    height: 100vh;
+    
+}
+
+.sky{
+    width:100%;
+    height: 100vh;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+
+
+.logo{
+    height: 40px;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
+.list{
+    position: absolute;
+    top: 40px;
+    color: aliceblue;
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: larger;
+    font-display: swap;
+    }
+
+ 
+ .list-item1{
+    
+    
+    position: absolute;
+    left: 500px;
+ }   
+
+ .list-item2{
+    position: absolute;
+    left: 650px;
+ }
+
+ .list-item3{
+    position: absolute;
+    left: 800px;
+ }
+
+ .list-item4{
+    position: absolute;
+    left: 950px;
+ }
+
+ .list-item5{
+    position: absolute;
+    left: 1100px;
+ }
+
+ .nav-button{
+    background-color: #5955b3;
+    color: aliceblue;
+    padding: 20px 50px;
+    border: 0ch;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+    font-display: swap;
+    position: absolute;
+    top: 60px;
+    left: 1400px;
+ }
+
+ .btn2{
+    font-size: medium;
+    padding: 20px 50px;
+    position: absolute;
+    top: 600px;
+    left: 150px;
+ }
+
+ h1{
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    font-size: 65px;
+    color:  aliceblue;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    text-align: center;
+}
+
+
+
+p{
+    color:aliceblue;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: larger;
+    font-display: swap;
+    position: absolute;
+    top: 400px;
+    left: 650px;
+    
+
+}
+
+.button{
+    color: aliceblue;
+    background-color: #ba0cc5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: small;
+    font-display: swap;
+
+}
+
+.small{
+    position: absolute;
+    top: 30px;
+    left: 1400px;
+}
+
+.large{
+    position: absolute;
+    top:500px ;
+    left: 650px;
+    padding: 20px 50px;
+    border: 0ch;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+.vl {
+      border-left: 2px solid grey;
+      height: 50px;
+      position: absolute;
+      top: 30px;
+      left: 400px;
+    }
+
+h2{
+    color: aliceblue;
+}
